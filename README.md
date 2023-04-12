@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jennyfer Belalcazar</h1>
 <h3 align="center">Passionate for programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jennyferbm13&label=Profile%20views&color=0e75b6&style=flat" alt="jennyferbm13" /> </p>
+- 🔭 I’m currently working at Accenture
+- 🌱 I’m currently learning about QA and JS
+- ⚡ Skills: Disciplined, teamwork, problem-solving, effective communication, continuous learning and Attention to detail
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jennyferbm13" alt="jennyferbm13" /></a> </p>
 
