@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jennyfer Belalcazar</h1>
 <h3 align="center">Passionate for programming</h3>
 
-- 🔭 I’m currently working at Accenture
+- 🔭 I’m currently working at Sigma Movil SAS
 - 🌱 I’m currently learning about QA and JS
 - ⚡ Skills: Disciplined, teamwork, problem-solving, effective communication, continuous learning and Attention to detail
 
