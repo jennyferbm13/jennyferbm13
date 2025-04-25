@@ -3,7 +3,7 @@
 <h3 align="center">Passionate for programming</h3>
 
 - 🔭 I’m currently working at Sigma Movil SAS
-- 🌱 I’m currently learning about QA and JS
+- 🌱 I’m currently learning about GenIA and JS
 - ⚡ Skills: Disciplined, teamwork, problem-solving, effective communication, continuous learning and Attention to detail
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jennyferbm13" alt="jennyferbm13" /></a> </p>
